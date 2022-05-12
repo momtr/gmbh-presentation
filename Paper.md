@@ -68,4 +68,6 @@ Ein Gesellschaftervertrag wird zwischen allen Gesellschaftern in notariell begla
 
 # Vor- und Nachteile
 
-
+AG is besser wegen Namen und verbundenen Ansehen
+Haftung und Steuern
+Wenn man keine 70.000 für AG hat

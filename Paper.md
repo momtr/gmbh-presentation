@@ -16,6 +16,10 @@ toc-own-page: true
 book: true
 ...
 
+# TODO
+
+- Gendern
+
 # Überblick
 
 Bei der Gesellschaft mit beschränkter Haftung (= *GmbH*) handelt es sich um eine Kapitalgesellschaft, die von
@@ -239,15 +243,25 @@ Beispielsweise gibt es eine sofortige Versteuerung nicht ausgeschütteter Gewinn
 
 # Sozialversicherung
 
-FlO
+Das GSVG verpflichtet eine Sozialversicherung für die geschäftsführende Gesellschaft einer GmbH. Außerdem gibt es eine Unfallversicherung nach dem ASVG, solange die Gesellschaft Mitglied einer Kammer der gewerblichen Wirtschaft ist. 
+
+Die Pflichtversicherung nach dem ASVG fällt allerdings aus, wenn die geschäftsführende Gesellschaft über 50 % Beteiligung hat, oder mehr als 25 % Beteiligung und zusätzlich beherrschenden Einfluss auf die Betriebsführung vorweist. Die geschäftsführende Gesellschaft unterliegt aber jedenfalls der Pflichtversicherung nach dem GSVG.
 
 # Beendigung der Gesellschaft
 
-FLO
+Ein Erreichen des Gesellschaftszweckes, ein Zeitablauf, ein Beschluss der Generalversammlung mit einfacher Mehrheit oder Konkurseröffnung können Gründe für die Auflösung einer GmbH sein. Man spricht von einer Liquidation. 
+
+Das Liquidationsverfahren besteht aus folgenden Schritten:
+
+1) **Gesellschafterbeschluss** - In einer Generalversammlung mus ein Beschluss zur Auflösung der GmbH fallen. Eine Abstimmung ist unzulässig, es braucht einen notariell beurkundeten Auflösungsbeschlusses.
+2) **Bestellung des Liquidators** - Der oder die Geschäftsführer werden zu Liquidatoren, die die GmbH nach außen vertreten und die Geschäfte bis zur Löschung aus dem Firmenbuch führen.
+3) **Eintragung ins Firmenbuch** - Der Liquidator, als auch der Beschluss zur Auflösung, ist in das Firmenbuch einzutragen. Danach führt die GmbH ein "Liquidations-Firmenwortlaut". 
+4) **Aufgaben des Liquidators** - Der Liquidator muss die GmbH bekannte Gläubiger informieren, damit sie die Forderung gegen die GmbH geltend machen. Dies erfolgt durch eine Veröffentlichung im Amtsblatt zur Wiener Zeitung. Des Weiteren hat der Liquidator hat die Aufgabe laufende Geschäfte zu beenden. Nach Befriedigung der Verbindlichkeiten wird das Gesellschaftsvermögen unter den Gesellschaftern aufgeteilt. Wenn die GmbH während dem Liquidationsverfahren zahlungsunfähig ist, müssen rechtzeitig insolvenzrechtliche Schritte eingeleitet werden. 
+5) **Beendung der Liquidation** - Nach beendung der Liquidation muss der Liquidator eine Liquidationsschlussbilanz erstellen. Im Anschluss erfolg ein Antrag für die Löschung der GmbH aus dem Firmenbuch. Alle Bücher und Geschäftsunterlagen sind abzugeben.
+
 
 # Vor- und Nachteile
 
-FLO / MO
 
 # Beispiele
 
@@ -272,6 +286,8 @@ FLO / MO
 - Österreich.gv https://www.oesterreich.gv.at/lexicon/K/Seite.991650.html
 - Am Punk, Recht für Technikerinnen und Techniker, 17.05.2022
 - WKO, https://www.wko.at/service/wirtschaftsrecht-gewerberecht/Gesellschaft_mit_beschraenkter_Haftung_(GmbH)_-_FAQs.html, 17.05.2022
+- Gründerservice, https://www.gruenderservice.at/site/gruenderservice/planung/GmbH.html
+- WKO, https://www.wko.at/service/wirtschaftsrecht-gewerberecht/Aufloesung_und_Liquidation_einer_GmbH_durch_Gesellschafter.html
 
 AG is besser wegen Namen und verbundenen Ansehen
 Haftung und Steuern

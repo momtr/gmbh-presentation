@@ -43,7 +43,7 @@ Generell gilt für die GmbH das Unternehmensgesetzbuch (= UGB). Dazu kommen die 
 # Gründung
 Die Gründung einer GmbH erfolgt im Gegensatz zu Personengesellschaften durch eine natürliche Person. Bei der Gründung einer solchen Rechtsform muss nach der Art der GmbH unterschieden werden:
 
-## Traditionalle Gründung
+## Traditionelle Gründung
 Ein Gesellschaftsvertrag wird zwischen allen Gesellschaftern in notariell beglaubigter Form abgeschlossen und gilt damit fortan. Der Vertrag muss dabei schriftlich sein und folgende Punkte beinhalten:
 
 | gesetzlicher Mindestinhalt       | optionaler Inhalt                              |
@@ -79,18 +79,34 @@ Sofern das Neugründungsförderungsgesetz nicht anwendbar ist, fallen bei der Ei
 ## Alternative - Vereinfachte Gründung
 Ungefähr 38 % aller GmbH-Gründung erfolgen durch eine einzige Person als Geschäftsführer und Gesellschafter. Liegt sowhol ein Gesellschaftsvertrag als auch diese Voraussetzungen vor, kann die GmbH ohne Involvierung eines Notars auf digitalem Weg gegründet werden. Dazu ist die elektronische Bürgerkarte und Zugang zum Unternehmensserviceportal notwendig.
 
+Der Vorteil hierbei ist, dass die Bank die Identität des Gründers prüft und bestimmte Dokumente an das Firmenbuchgericht weiterleitet, was zeitlich und aufandstechnisch ein großer Vorteil ist.
 
 # Gründungsprivilegien
 Allgemein beträgt das Stammkapital der GmbH €35.000, kann aber mithilfe des Gründungsprivilegs auf €10.000 in den ersten 10 Jahren herabgesetzt werden. Davon müssen €5.000 direkt bar eingezahlt werden - die andere Hälfte kann durch Sacheinlagen erfolgen. Das Stammkapital ist bei Inanspruchnahme jedoch nach Ablaufen der 10-Jahres-Frist auf die vorgeschriebenen €35.000 zu erhöhen.  
 
 Das Gründungsprivileg kann nur im Zuge der Gründung der GmbH angewendet werderden und muss hierbei in den Gesellschaftsvertrag aufgenommen werden.
 
-# Haftung
-MO
-
 # Firma
-MO
-Kapital
+Der Name der GmbH muss den Zusatz "GmbH", "Ges.m.b.H." oder "Gesellschaft m.b.H." führen und darf einen Namen, eine Sache, oder eine Fantasiebezeichnung beinhalten, wobei diese Namen nicht täuschend sein dürfen. Gegebenenfalls kann bei bestimmten Organisationen, wie der WKO, ein Check des Namens auf Rechtssicherheit durchgeführt werden. Der Name der Wortmarke kann auch durch eine Anmeldung beim Patentamt geschützt werden, wobei man dadurch das alleinige Nutzungsrecht des Firmennamens erhält. Der Firmenname wird im Firmenbuch eingetragen. Weriters darf der Name auch Personennamen beinhalten, aber nur die der Gesellschafter.
+
+# Kapital und Rechtspersönlichkeit
+
+![Stammkapital und Stammeinlagen](images/stammeinlagen.png)
+
+Jeder Gesellschafter leistet in Form einer Stammeinlage einen Beitrag zum Stammkapital des Unternehmens. Diese Stammeinlage muss mindestens €70 betragen und darf variieren. Die Summe aller Stammeinlagen der Gesellschafter bildet das Stammkapital, das €35.000 beträgt, durch das Gründungsprivileg aber auch herabgesetzt werden kann. Gesellschaften mit beschränkter Haftung, die aus nur einem Gesellschafter und demnach nur einen Geschäftsführer bestehen werden als "Ein-Mann-GmbH" bezeichnet.
+
+Der Eigentümer des Stammkapitals ist das Unternehmen selbst, was mit seinen finanziellen Mitteln wirtschaften kann.
+
+Die GmbH nimmt eine eigene Rechtsperönlichkeit an. Sie stellt eine juritische Person dar und kann somit Recht erwerben, Verbindlichkeiten eingehen, klagen und geklagt werden. Dies ist ein erheblicher Vorteil, da sie beispielsweise Verträge abschließen oder die Verbindlichkeiten von Geschäften übernehmen kann.
+
+# Haftung
+Das Stammkapital gilt als Absicherung, da die Haftung des unternehmerischen Risikos des Unternehmens in der Regel nicht auf etwaiges Privatvermögen der Gesellschafter oder Geschäftsführer entäfllt.
+
+![Haftung](images/haftung.png)
+
+Daher besteht keine direkte oder perönöliche Haftung der Gesellschafter. Jedoch muss sichergestellt sein, dass das Unternehmen über das vorgeschriebene Gesellschaftsvermögen durch miunter das Stammkapital verfügt. Weiters haften Geschäftsführer und Gesellschafter, die mehr als 50 % der Stammeinlage halten, mit einer Höhe von €4.000 für Kosten eines etwaigen Insolvenzverfahrens. 
+
+Also gilt generell: Gesellschafter haften nie mit ihrem Privatvermögen für das Risiko der Gesellschaft, können aber ihre Stammeinlage verlieren.
 
 # Organe
 ## Geschäftsführung und ihre Vertretung
@@ -123,14 +139,24 @@ Blickt man auf die Haftung der GmbH und der Geschäftsführung wird klar, dass d
 
 Die Tätigkeit der Geschäftsfürhung endet mit ihrer Abberufung durch einen Beschluss der Gesellschafter. Eine solche Abberufung wird mit einer einfachen Stimmenmehrheit erwirkt und ist jederzeit gültig.
 
-## Gewerbeberechtigung
-## Bilanzierungspflicht
-
 # Gewerbeberechtigung
+Eine Vielzahl von Tätigkeiten uneterliegen der Gewerbeordnung. Möchte die Gesellschaft solche Tätigkeiten ausüben, benötigt sie eine Gewerbeberechtigung, die auf die Gesellschaft selbst lautet. Hat nur ein einzelner Gesellschafter eine solche Gewerbeberechtigung, so gilt dies nicht. 
+
+Fällt ein Unternehmen unter die Gewerbeordnung, muss es einen gewerberechtlichen Geschäftsführer bestellen, also entweder den handelsrechtlichen Geschäftsführer selbst oder einen solzialversicherungspflichtigen Arbeitnehmer, der mindestens die Hälte der üblichen wöchentlichen Arbeitsstunden im Betrieb tättig ist.
 
 # Bilanzierungspflicht
+Aufgrund der Tatsache, dass die Gmbh unternehmensrechtlichen Regelungen unterliegt, muss sie einen vollen Jahresabschluss aufstellen und diesen beim Finanzamt einreichen. Dieser volle Jahresabschluss umfasst:
+
+- Gewinn- und Verlustrechnung (GuV) - extern
+- Bilanz - extern
+- Lagebericht - intern
+- Eigenkapitalveränderung - intern
+- Kapitalfluss - intern
+
+Außerdem muss die Geschäftsführung Auskunft und Informationen gegenüber den Gesellschaftern erteilen, wobei der Jahresabschluss (extern und intern) eine große Rolle spielt. Für das Finanzamt ist neben den steuerrechtlichen Angaben nur die GuV-Rechnung und die Bilanz von Bedeutung (extern).
 
 # Gewinnverteilung und Entnahmerecht
+Thesaurierung
 
 # Steuern
 Die Rechtsform eines Unternehmens bestimmt wie **Körperschaftssteuer** und **Einkommensteuern**, in diesem Fall **Kapitalertragssteuer**, hand zu haben sind. Für ein neugegründetes Unternehmen ist die GmbH als Rechtsform steuerlich gesehen oftmals ungünstig. 
@@ -169,7 +195,8 @@ FLO / MO
 - WKO, https://www.wko.at/service/steuern/einkommensteuer-koerperschaftsteuer.html
 - WKO, https://www.wsw-steuerberater.at/steuernews_fuer_klienten/mai_2015/wie_hoch_ist_die_steuer_bei_einer_gmbh_/
 - Österreich.gv https://www.oesterreich.gv.at/lexicon/K/Seite.991650.html
-- 
+- Am Punk, Recht für Technikerinnen und Techniker, 17.05.2022
+- WKO, https://www.wko.at/service/wirtschaftsrecht-gewerberecht/Gesellschaft_mit_beschraenkter_Haftung_(GmbH)_-_FAQs.html, 17.05.2022
 
 AG is besser wegen Namen und verbundenen Ansehen
 Haftung und Steuern

@@ -262,6 +262,21 @@ Das Liquidationsverfahren besteht aus folgenden Schritten:
 
 # Vor- und Nachteile
 
+#### Vorteile
+
+- Hohe Flexibilität - Eine GmbH ist für jeden gesetzlich zulässigen Zweck erlaubt
+- Beschränkte Haftung - Es gibt keine persönliche Haftung der Gesellschafter
+- Steuerliche Vorteile - Bei hohen Gewinnen ist die Körperschaftsteuer geringer als Einkommenssteuer
+- Eigene Rechtsfähigkeit - Die GmbH kann selbstständig Geschäfte abschließen
+
+#### Nachteile
+
+- Hohes Mindestkapital - €35.000 müssen vorgewiesen/eingebracht werden
+- Hoher Arbeitsaufwand - Gründung ist verhältnismäßig aufwendig
+- Risiko der persönlichen Haftung - Geschäftsführer können trotz "begrenzter Haftung" eine Sorgfaltspflicht
+- Strikte Trennung zwischen Gesellschafter- und Gesellschaftsvermögen
+- Steuern trotz Verlust - Die Mindestkörperschaftssteuer muss trotz Verlust eingebracht werden
+- Doppelte Buchhaltung - Aufwändigere Buchführung als bei Einzelunternehmen
 
 # Beispiele
 
@@ -287,7 +302,9 @@ FLO / MO
 - Am Punk, Recht für Technikerinnen und Techniker, 17.05.2022
 - WKO, https://www.wko.at/service/wirtschaftsrecht-gewerberecht/Gesellschaft_mit_beschraenkter_Haftung_(GmbH)_-_FAQs.html, 17.05.2022
 - Gründerservice, https://www.gruenderservice.at/site/gruenderservice/planung/GmbH.html
-- WKO, https://www.wko.at/service/wirtschaftsrecht-gewerberecht/Aufloesung_und_Liquidation_einer_GmbH_durch_Gesellschafter.html
+- WKO, https://www.wko.at/service/wirtschaftsrecht-gewerberecht/Aufloesung_und_Liquidation_einer_GmbH_durch_Gesellschafter.html,
+- Gründerschiff, https://gruenderschiff.de/gmbh-gruenden-vor-und-nachteile/
+- 
 
 AG is besser wegen Namen und verbundenen Ansehen
 Haftung und Steuern

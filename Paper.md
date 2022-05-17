@@ -17,7 +17,25 @@ book: true
 ...
 
 # Überblick
-Bei der Gesellschaft mit beschränkter Haftung (= *GmbH*) handelt es sich um eine Kapitalgesellschaft, die von Gesellschaftern gegründet wird und mind. eine natürliche Person zum Geschäftsführer bestellt. Aufgrund Haftungsfragen und diverser steuerrechtlichen Belangen, ist die GmbH eine beliebete Rechtsform sowohl für Startups als auch für beständige Klein- und Mittelbetriebe.
+Bei der Gesellschaft mit beschränkter Haftung (= *GmbH*) handelt es sich um eine Kapitalgesellschaft, die von Gesellschaftern gegründet wird und mind. eine natürliche Person zum Geschäftsführer bestellt. Aufgrund Haftungsfragen und diverser steuerrechtlichen Belangen, ist die GmbH eine beliebete Rechtsform sowohl für Startups als auch für beständige Klein- und Mittelbetriebe. Sie stellt eine eigene juristische Person dar und unterliegt den Gesetzen des UGB.
+
+Key-Facts:
+
+- Kapitalgesellschaft
+- Stammkapital durch Stammeinlagen
+- beschränkte Haftung
+- eigene juritische Person
+
+# Zweck
+Die Gründung der GmbH kann für jeden erlaubten Zweck erfolgen. Nicht erlaubt sind Zwecke verbunden mit:
+
+- Versicherungen
+- Bankgeschäfte
+- Apotheken
+- Notariate
+- Tabak-Trafiken
+- Rauchfangkehrer
+- politische Parteien
 
 # Gründung
 Die Gründung einer GmbH erfolgt im Gegensatz zu Personengesellschaften durch eine natürliche Person. Bei der Gründung einer solchen Rechtsform muss nach der Art der GmbH unterschieden werden:
@@ -68,11 +86,18 @@ MO
 
 # Firma
 MO
+Kapital
 
 # Organe
 ## Geschäftsführung und ihre Vertretung
 
-Generelle Definition des handelsrechtlichen Geschäftsführers:
+Generelle Definition des handelsrechtlichen Geschäftsführers, wobei zwischen Innen- und Außenverhältnis unterschieden werden muss:
+
+\
+
+| Innenverhältnis       | Außenverhältnis             |
+|-----------------------|-----------------------------|
+| Führung der Geschäfte | Vertretung der Gesellschaft |
 
 
 

@@ -137,6 +137,40 @@ Also gilt generell: Gesellschafter haften nie mit ihrem Privatvermögen für das
 
 # Organe
 
+![Zusammenhang der Organe](images/organe.png)
+
+## Generalversammlung
+
+Die Generalversammlung muss mindestens einmal jährlich einberufen werden und besteht aus Gesellschaftern, die aufgrund ihrer eingezahlten Stammeinlage einen Geschäftsanteil besitzen, der durch einen Sitz und ein Stimmrecht in der Generalversammlung symbolisiert wird.
+
+Die Generalversammlung ist also die Versammlung aller Gesellschafter, bei denen Management Entscheidungen bestimmt werden, Auskunft gegeben wird und andere Beschlüsse gefasst werden. Abstimmungen basieren auf dem Merheitsprinzip entsprechend den Geschäftanteilen, wobei mindestens 1/10 des Stammkapitals anwesend sein muss. 
+
+Ein Recht der Generalversammlung ist es, neben den im Gesellschaftsvertrag angeführten anderen Pflichen und Rechten, den anderen GmbH Organen Weisungen zu erteilen:
+
+- Jahresabschlussprüfung
+- Beschlussfassung über Verteilung des Gewinns
+- Entlastung der Geschäftsführung
+- Erteilung der Prokura (= umfassende kaufmännische Vollmacht)
+- Vertragsabschlüsse, insbesondere bei Sachkapitalanschaffungen, die 20 % des Stammkapitals übersteigen
+- Änderung des Gesellschaftervertrags (3/4 Mehrheit notwendig)
+
+Außerdem erfüllt die Generalversammlung zwei wichtige Aufgaben:
+
+- Bestellung des Geschäftsführers
+- Wahl 2/3 der Mitglieder des Aufsichtsrats
+
+## Aufsichtsrat
+
+Die zentrale Aufgabe ist es, die Geschäftsführung zu kontrollieren. Beispielsweise wird eine Abschlussprüfung am Jahresende vollzogen. Die Errichtung dieses Organs ist notwendig, wenn mehr als 300 ArbeitnehmerInnen beschäftigt sind oder mehr als 50 GesellschafterInnen mehr als €70.000 Stammkapital haben. Wie vieles, kann der Aufsichtsrat jedoch auch freiwillig errichtet werden.
+
+Die Mitglieder des Aufsichtsrats dürfen nicht Teil der Geschäftsfürhung sein und werden folgendermaßen bestellt:
+
+- 2/3 der Mitglieder von Generalversammlung gewählt
+- 1/3 der Mitglieder von Betriebsrat (= Arbeitnehmervertretung) bestellt
+
+Weiters ist der Aufsichtsrat dazu berechtigt, eine Generalversanmlung einzuberufen, wenn dies im Interesse der Gesellschaft erforderlich ist (§ 30j Abs 4 GmbHG). Außerdem muss der Aufsichtsrat bei bestimmen Geschäften seine Zustimmung geben. Auch ist der Aufsichtsrat dazu verpflichtet die Geschäftsführung hinsichtlich ihrer Betribsorientierung fortlaufend zu überprüfen. Grundlegend gewährleistet der Aufsichtsrat also eine mehr oder minder unabhängige Gewalt innerhalb Gesellschaft, die eine prüfende Funktion einnimmt. Dies verbessert auch das Außenbild des Unternehmens enorm, insbesondere bei Fragen des Arbeitsrechts.
+
+
 ## Geschäftsführung und ihre Vertretung
 
 Generelle Definition des handelsrechtlichen Geschäftsführers, wobei zwischen Innen- und Außenverhältnis unterschieden
@@ -172,9 +206,7 @@ Blickt man auf die Haftung der GmbH und der Geschäftsführung wird klar, dass d
 gewissenhafter und fachlich einwandfreien Unternehmensfürhung keine persönliche Haftung für das unternehmerische Risiko
 der GmbH übernimmt. Verletzt er jedoch eine dieser Pflichten, wird die Haftung gegenüber einzelnen Parteien verletz.
 
-Die Tätigkeit der Geschäftsfürhung endet mit ihrer Abberufung durch einen Beschluss der Gesellschafter. Eine solche
-Abberufung wird mit einer einfachen Stimmenmehrheit erwirkt und ist jederzeit gültig.
-
+Die Tätigkeit der Geschäftsfürhung endet mit ihrer Abberufung durch einen Beschluss der Gesellschafter. Eine solche Abberufung wird mit einer einfachen Stimmenmehrheit erwirkt und ist jederzeit gültig.
 
 # Gewerbeberechtigung
 Eine Vielzahl von Tätigkeiten uneterliegen der Gewerbeordnung. Möchte die Gesellschaft solche Tätigkeiten ausüben, benötigt sie eine Gewerbeberechtigung, die auf die Gesellschaft selbst lautet. Hat nur ein einzelner Gesellschafter eine solche Gewerbeberechtigung, so gilt dies nicht. 
@@ -193,7 +225,45 @@ Aufgrund der Tatsache, dass die Gmbh unternehmensrechtlichen Regelungen unterlie
 Außerdem muss die Geschäftsführung Auskunft und Informationen gegenüber den Gesellschaftern erteilen, wobei der Jahresabschluss (extern und intern) eine große Rolle spielt. Für das Finanzamt ist neben den steuerrechtlichen Angaben nur die GuV-Rechnung und die Bilanz von Bedeutung (extern).
 
 # Gewinnverteilung und Entnahmerecht
-Thesaurierung
+Allgemein können die ausgewiesenen Bilanzgewinne an die Gesellschafter entsprechend dem Gesellschaftsvertrag im Verhältnis ihrer eingezahlten Stammeinlagen ausgezahlt werden, wobei die Kapitalertragssteuer anfällt. Dabei ist jedoch ein Gewinnausschüttungsbeschluss der Gesellschafter notwendig. Die Geschäftsführung ist dazu verpflichtet den betrieblichen Gewinn zu maximieren. Im Gegensatz dazu sind Verluste von der Gesellschaft selbst zu tragen und Gesellschafter haben diesbezüglich keine Pflichten - sofern dies nicht anders im Gesellschaftsvertrag gerelegt ist.
+
+![Zusammenfassung Gewinnverteilung und Thesaurierung](images/gewinne.png)
+
+Im Gegensatz zu anderen Gesellschaftsformen ist die GmbH bei voller Gewinnausschüttung aufgrund der Steuern erst bei einer Gewinnschwelle von €345.000 günstiger. Wird das Geld im Unternehmen behalten, spricht man von Thesaurierung, und das die Rentabilitätsgrenze verschiebt sich nach unten.
+
+Neben der Gewinnausschüttung kann auch der Geschäftsführer ein Entgelt beziehen. Dieses Entgeld kann steuerrechtlich stark optimiert werden und wird von der Gesellschafterversammlung festgelegt. Dabei ist es von anderen Faktoren, wie Firmenwagen oder Privatentnahmen des Geschäftsführers abhängig - wobei es stets verhältnismäßig sein muss. Die Höchstgrenze liegt bei €500.000 pro Person und Wirtschaftsjahr. 
+
+Ist der Geschäftsführer auch an der Gesellschaft beteiligt, nennt man ihn Gesellschafter-Geschäftsführer. Durch diese Methode kann die auf den Gewinn angewandte Körperschaftssteuer reduziert werden. Die Art der Besteuerung ist von den Stammkapitalanteilen des Geschäftsführers abhängig:
+ 
+- weniger als 25 %: Geschäftsführerbezüge als "normale" Bezüge aus nichtselbstständiger Tätigkeit
+- 25 % oder mehr: wesentlich beteiligter Geschäftsführer
+  
+Beispiel:
+
+Gessellschaftervergütung / Entgelt:
+
+|                                                 |          |
+|-------------------------------------------------|----------|
+| Gewinn vor Steuern und Geschäftsführervergütung | 100.000  |
+| - Lohnnebenkosten                               | - 7.310  |
+| Bruttogeschäftsführerbezug                      | 92.690   |
+| - GSVG, ...                                     | - 20.346 |
+| - Einkommenssteuer                              | - 19.864 |
+| = Nettobezug für Gesellschafter-Geschäftsführer | 52.480   |
+
+
+Dividendenausschüttung:
+
+|                                                 |          |
+|-------------------------------------------------|----------|
+| Gewinn vor Steuern und Geschäftsführervergütung | 100.000  |
+| - 25 % KöSt                                     | - 25.000 |
+| Ausschüttungsbetrag                             | 75.000   |
+| - 27.5 % KESTt                                  | - 20.625 |
+| = Einkünfte des Gesellschafters                 | 54.375   |
+
+
+Wenn die gesamten Einkünfte €60.000 übersteigen, ist in der Regel Variante 2: Dividenausschüttung zu vevorzugen.
 
 # Steuern
 
@@ -272,7 +342,15 @@ FLO / MO
 - Österreich.gv https://www.oesterreich.gv.at/lexicon/K/Seite.991650.html
 - Am Punk, Recht für Technikerinnen und Techniker, 17.05.2022
 - WKO, https://www.wko.at/service/wirtschaftsrecht-gewerberecht/Gesellschaft_mit_beschraenkter_Haftung_(GmbH)_-_FAQs.html, 17.05.2022
+- https://www.wko.at/service/steuern/Die-Wahl-der-Rechtsform-aus-steuerlicher-Sicht.html, 17.05.2022
+- https://www.wko.at/service/steuern/Die-Wahl-der-Rechtsform-aus-steuerlicher-Sicht.html, 17.05.2022
+- https://www2.deloitte.com/at/de/seiten/tirol/artikel/steueroptimaler-geschaeftsfuehrerbezug.html, 17.05.2022
+- https://www.wko.at/service/wirtschaftsrecht-gewerberecht/Prokura.html#:~:text=Was%20versteht%20man%20unter%20Prokura%3F&text=Die%20Prokura%20ist%20eine%20umfassende,irgendeines%20Unternehmens%20mit%20sich%20bringt., 17.05.2022
+- https://kanzleifritz.at/braucht-eine-gmbh-einen-aufsichtsrat/, 17.05.2022
 
 AG is besser wegen Namen und verbundenen Ansehen
 Haftung und Steuern
 Wenn man keine 70.000 für AG hat
+- Auch Steuern bei Verlusten zahlen!!!
+- Verträge eingehen
++ GmbH lohnt sich erst mit der Zeit

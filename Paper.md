@@ -75,6 +75,7 @@ MO
 Generelle Definition des handelsrechtlichen Geschäftsführers:
 
 
+
 ## Gewerbeberechtigung
 ## Bilanzierungspflicht
 
@@ -104,13 +105,12 @@ Ltd. England
 C und S Corporation in den USA
 FLO / MO
 
-<<<<<<< HEAD
 # Quellen
 
 - WKO, https://www.wko.at/service/wirtschaftsrecht-gewerberecht/Gesellschaft_mit_beschraenkter_Haftung_(GmbH).html, 16.05.2022
 - Selbstständig machen, https://www.selbststaendig-machen.at/foerderungen-fuer-jungunternehmer-in-oesterreich/#:~:text=Austria%20Wirtschaftsservice%20(Aws),5.000%20und%2020.000%20Euro%20vergibt., 17.05.2022
-=======
+- WKO, https://www.wko.at/service/wirtschaftsrecht-gewerberecht/Handelsrechtlicher_Geschaeftsfuehrer.html, 17.05.2022
+
 AG is besser wegen Namen und verbundenen Ansehen
 Haftung und Steuern
 Wenn man keine 70.000 für AG hat
->>>>>>> a03066f28d6b10dbd3e38c9265c18c0484bdea05

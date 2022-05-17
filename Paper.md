@@ -355,7 +355,9 @@ Das Liquidationsverfahren besteht aus folgenden Schritten:
 
 # Beispiele
 
-FLO / MO
+- Porsche Holding GmbH
+- Signa Retail GmbH
+- Red Bull GmbH
 
 # GmbH und Internationalität
 

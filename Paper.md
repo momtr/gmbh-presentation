@@ -16,9 +16,6 @@ toc-own-page: true
 book: true
 ...
 
-# TODO
-
-- Gendern
 
 # Überblick
 
@@ -323,27 +320,28 @@ Ein Erreichen des Gesellschaftszweckes, ein Zeitablauf, ein Beschluss der Genera
 
 Das Liquidationsverfahren besteht aus folgenden Schritten:
 
-1) **Gesellschafterbeschluss** - In einer Generalversammlung mus ein Beschluss zur Auflösung der GmbH fallen. Eine Abstimmung ist unzulässig, es braucht einen notariell beurkundeten Auflösungsbeschlusses.
+1) **Gesellschafterbeschluss** - In einer Generalversammlung mus ein Beschluss zur Auflösung der GmbH fallen. Lediglich eine Abstimmung ist unzulässig, es braucht einen notariell beurkundeten Auflösungsbeschlusses.
 2) **Bestellung des Liquidators** - Der oder die Geschäftsführer werden zu Liquidatoren, die die GmbH nach außen vertreten und die Geschäfte bis zur Löschung aus dem Firmenbuch führen.
 3) **Eintragung ins Firmenbuch** - Der Liquidator, als auch der Beschluss zur Auflösung, ist in das Firmenbuch einzutragen. Danach führt die GmbH ein "Liquidations-Firmenwortlaut". 
 4) **Aufgaben des Liquidators** - Der Liquidator muss die GmbH bekannte Gläubiger informieren, damit sie die Forderung gegen die GmbH geltend machen. Dies erfolgt durch eine Veröffentlichung im Amtsblatt zur Wiener Zeitung. Des Weiteren hat der Liquidator hat die Aufgabe laufende Geschäfte zu beenden. Nach Befriedigung der Verbindlichkeiten wird das Gesellschaftsvermögen unter den Gesellschaftern aufgeteilt. Wenn die GmbH während dem Liquidationsverfahren zahlungsunfähig ist, müssen rechtzeitig insolvenzrechtliche Schritte eingeleitet werden. 
 5) **Beendung der Liquidation** - Nach beendung der Liquidation muss der Liquidator eine Liquidationsschlussbilanz erstellen. Im Anschluss erfolg ein Antrag für die Löschung der GmbH aus dem Firmenbuch. Alle Bücher und Geschäftsunterlagen sind abzugeben.
 
 
-# Vor- und Nachteile
+# Vor- und Nachteile der GmbH
 
 #### Vorteile
 
 - Hohe Flexibilität - Eine GmbH ist für jeden gesetzlich zulässigen Zweck erlaubt
-- Beschränkte Haftung - Es gibt keine persönliche Haftung der Gesellschafter
-- Steuerliche Vorteile - Bei hohen Gewinnen ist die Körperschaftsteuer geringer als Einkommenssteuer
+- Beschränkte Haftung - Es gibt i.d.R. keine persönliche bzw. private Haftung der Gesellschafter
+- Steuerliche Vorteile - Bei hohen Gewinnen ist die Kapitalertragssteuer geringer als Einkommenssteuer
 - Eigene Rechtsfähigkeit - Die GmbH kann selbstständig Geschäfte abschließen
+- Voneinander strikt getrennte Organe sind vorgeschrieben und kontrollieren sich gegenseitig 
 
 #### Nachteile
 
-- Hohes Mindestkapital - €35.000 müssen vorgewiesen/eingebracht werden
-- Hoher Arbeitsaufwand - Gründung ist verhältnismäßig aufwendig
-- Risiko der persönlichen Haftung - Geschäftsführer können trotz "begrenzter Haftung" eine Sorgfaltspflicht
+- Hohes Mindestkapital - €35.000 müssen vorgewiesen/eingebracht werden - €10.000 mit Gründerprivileg
+- Hoher Arbeitsaufwand - Gründung ist verhältnismäßig aufwendig und teuer
+- Risiko der persönlichen Haftung - Geschäftsführer haben trotz "begrenzter Haftung" eine Sorgfaltspflicht und können aufgrund dieser in Speizialfällen mit ihrem Privatvermögen haften
 - Strikte Trennung zwischen Gesellschafter- und Gesellschaftsvermögen
 - Steuern trotz Verlust - Die Mindestkörperschaftssteuer muss trotz Verlust eingebracht werden
 - Doppelte Buchhaltung - Aufwändigere Buchführung als bei Einzelunternehmen

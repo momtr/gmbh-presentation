@@ -16,6 +16,10 @@ toc-own-page: true
 book: true
 ...
 
+# TODO
+
+- Gendern
+
 # Überblick
 
 Bei der Gesellschaft mit beschränkter Haftung (= *GmbH*) handelt es sich um eine Kapitalgesellschaft, die von
@@ -309,15 +313,40 @@ Beispielsweise gibt es eine sofortige Versteuerung nicht ausgeschütteter Gewinn
 
 # Sozialversicherung
 
-FlO
+Das GSVG verpflichtet eine Sozialversicherung für die geschäftsführende Gesellschaft einer GmbH. Außerdem gibt es eine Unfallversicherung nach dem ASVG, solange die Gesellschaft Mitglied einer Kammer der gewerblichen Wirtschaft ist. 
+
+Die Pflichtversicherung nach dem ASVG fällt allerdings aus, wenn die geschäftsführende Gesellschaft über 50 % Beteiligung hat, oder mehr als 25 % Beteiligung und zusätzlich beherrschenden Einfluss auf die Betriebsführung vorweist. Die geschäftsführende Gesellschaft unterliegt aber jedenfalls der Pflichtversicherung nach dem GSVG.
 
 # Beendigung der Gesellschaft
 
-FLO
+Ein Erreichen des Gesellschaftszweckes, ein Zeitablauf, ein Beschluss der Generalversammlung mit einfacher Mehrheit oder Konkurseröffnung können Gründe für die Auflösung einer GmbH sein. Man spricht von einer Liquidation. 
+
+Das Liquidationsverfahren besteht aus folgenden Schritten:
+
+1) **Gesellschafterbeschluss** - In einer Generalversammlung mus ein Beschluss zur Auflösung der GmbH fallen. Eine Abstimmung ist unzulässig, es braucht einen notariell beurkundeten Auflösungsbeschlusses.
+2) **Bestellung des Liquidators** - Der oder die Geschäftsführer werden zu Liquidatoren, die die GmbH nach außen vertreten und die Geschäfte bis zur Löschung aus dem Firmenbuch führen.
+3) **Eintragung ins Firmenbuch** - Der Liquidator, als auch der Beschluss zur Auflösung, ist in das Firmenbuch einzutragen. Danach führt die GmbH ein "Liquidations-Firmenwortlaut". 
+4) **Aufgaben des Liquidators** - Der Liquidator muss die GmbH bekannte Gläubiger informieren, damit sie die Forderung gegen die GmbH geltend machen. Dies erfolgt durch eine Veröffentlichung im Amtsblatt zur Wiener Zeitung. Des Weiteren hat der Liquidator hat die Aufgabe laufende Geschäfte zu beenden. Nach Befriedigung der Verbindlichkeiten wird das Gesellschaftsvermögen unter den Gesellschaftern aufgeteilt. Wenn die GmbH während dem Liquidationsverfahren zahlungsunfähig ist, müssen rechtzeitig insolvenzrechtliche Schritte eingeleitet werden. 
+5) **Beendung der Liquidation** - Nach beendung der Liquidation muss der Liquidator eine Liquidationsschlussbilanz erstellen. Im Anschluss erfolg ein Antrag für die Löschung der GmbH aus dem Firmenbuch. Alle Bücher und Geschäftsunterlagen sind abzugeben.
+
 
 # Vor- und Nachteile
 
-FLO / MO
+#### Vorteile
+
+- Hohe Flexibilität - Eine GmbH ist für jeden gesetzlich zulässigen Zweck erlaubt
+- Beschränkte Haftung - Es gibt keine persönliche Haftung der Gesellschafter
+- Steuerliche Vorteile - Bei hohen Gewinnen ist die Körperschaftsteuer geringer als Einkommenssteuer
+- Eigene Rechtsfähigkeit - Die GmbH kann selbstständig Geschäfte abschließen
+
+#### Nachteile
+
+- Hohes Mindestkapital - €35.000 müssen vorgewiesen/eingebracht werden
+- Hoher Arbeitsaufwand - Gründung ist verhältnismäßig aufwendig
+- Risiko der persönlichen Haftung - Geschäftsführer können trotz "begrenzter Haftung" eine Sorgfaltspflicht
+- Strikte Trennung zwischen Gesellschafter- und Gesellschaftsvermögen
+- Steuern trotz Verlust - Die Mindestkörperschaftssteuer muss trotz Verlust eingebracht werden
+- Doppelte Buchhaltung - Aufwändigere Buchführung als bei Einzelunternehmen
 
 # Beispiele
 
@@ -347,6 +376,10 @@ FLO / MO
 - https://www2.deloitte.com/at/de/seiten/tirol/artikel/steueroptimaler-geschaeftsfuehrerbezug.html, 17.05.2022
 - https://www.wko.at/service/wirtschaftsrecht-gewerberecht/Prokura.html#:~:text=Was%20versteht%20man%20unter%20Prokura%3F&text=Die%20Prokura%20ist%20eine%20umfassende,irgendeines%20Unternehmens%20mit%20sich%20bringt., 17.05.2022
 - https://kanzleifritz.at/braucht-eine-gmbh-einen-aufsichtsrat/, 17.05.2022
+- Gründerservice, https://www.gruenderservice.at/site/gruenderservice/planung/GmbH.html
+- WKO, https://www.wko.at/service/wirtschaftsrecht-gewerberecht/Aufloesung_und_Liquidation_einer_GmbH_durch_Gesellschafter.html,
+- Gründerschiff, https://gruenderschiff.de/gmbh-gruenden-vor-und-nachteile/
+
 
 AG is besser wegen Namen und verbundenen Ansehen
 Haftung und Steuern

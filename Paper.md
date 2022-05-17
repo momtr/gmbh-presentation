@@ -86,7 +86,16 @@ Generelle Definition des handelsrechtlichen Geschäftsführers:
 # Gewinnverteilung und Entnahmerecht
 
 # Steuern
-FLO
+Die Rechtsform eines Unternehmens bestimmt wie **Körperschaftssteuer** und **Einkommensteuern**, in diesem Fall **Kapitalertragssteuer**, hand zu haben sind. Für ein neugegründetes Unternehmen ist die GmbH als Rechtsform steuerlich gesehen oftmals ungünstig. 
+
+#### Körperschaftssteuer
+Der Gewinn der GmbH unterliegt der Körperschaftssteuer von 25%. 
+
+#### Kapitalertragssteuer (KESt)
+Bei der Kapitalertragssteuer handelt es sich um eine Form von Einkommensteuern. Wenn eine beteiligte natürliche Person einer person aus einer Gewinnausschüttung Geld zieht, dann sind wiederum Kapitalertragssteuer einzubringen. In diesem Fall handelt es sich um Einkünfte aus Kapitalvermögen und somit beträgt der Steuersatz, seit 2016, **27,5 %**.
+
+Einfach zusammengefasst gibt die GmbH von jedem Gewinn 25 % Körperschaftssteuer ab. Wenn das Geld nicht in der Firmer bleibt, sondern an die Gesellschafter ausgeschüttet wird, kommt zusätzlich 27,5 % Kapitalertragssteuer hinzu. Zusammengerechnet gibt es also eine Gesamtbesteuerung von **45,625 %**. Für Einzelunternehmer  
+
 
 # Sozialversicherung
 FlO
@@ -110,6 +119,10 @@ FLO / MO
 - WKO, https://www.wko.at/service/wirtschaftsrecht-gewerberecht/Gesellschaft_mit_beschraenkter_Haftung_(GmbH).html, 16.05.2022
 - Selbstständig machen, https://www.selbststaendig-machen.at/foerderungen-fuer-jungunternehmer-in-oesterreich/#:~:text=Austria%20Wirtschaftsservice%20(Aws),5.000%20und%2020.000%20Euro%20vergibt., 17.05.2022
 - WKO, https://www.wko.at/service/wirtschaftsrecht-gewerberecht/Handelsrechtlicher_Geschaeftsfuehrer.html, 17.05.2022
+- WKO, https://www.wko.at/service/steuern/einkommensteuer-koerperschaftsteuer.html
+- WKO, https://www.wsw-steuerberater.at/steuernews_fuer_klienten/mai_2015/wie_hoch_ist_die_steuer_bei_einer_gmbh_/
+- Österreich.gv https://www.oesterreich.gv.at/lexicon/K/Seite.991650.html
+- 
 
 AG is besser wegen Namen und verbundenen Ansehen
 Haftung und Steuern

@@ -266,6 +266,10 @@ Dividendenausschüttung:
 
 Wenn die gesamten Einkünfte €60.000 übersteigen, ist in der Regel Variante 2: Dividenausschüttung zu vevorzugen.
 
+# Übertragung von Anteilen
+
+Vereinfacht ist der Anteil an einer GmbH das Pendant zu Aktien an einer AG. Gesellschafter haben - sofern nicht anders im Gesellschaftsvertrag geregelt - das Recht, Geschäftsanteile zu verkaufen. Dies muss jedoch notariell beglaubigt und im Firmenbuch angepasst werden. Mit der Übertragung ins Firmenbuch wird der Käufer nun Gesellschafter an der Firma. Wenn ein Anteil an einem renatblen Unternehmen gekauft wird, übersteigt der Kaufpreis i.d.R. die Einlage (= Nominale).
+
 # Steuern
 
 Die Rechtsform eines Unternehmens bestimmt wie **Körperschaftssteuer** und **Einkommensteuern**, oder **
@@ -335,26 +339,34 @@ Das Liquidationsverfahren besteht aus folgenden Schritten:
 - Beschränkte Haftung - Es gibt i.d.R. keine persönliche bzw. private Haftung der Gesellschafter
 - Steuerliche Vorteile - Bei hohen Gewinnen ist die Kapitalertragssteuer geringer als Einkommenssteuer
 - Eigene Rechtsfähigkeit - Die GmbH kann selbstständig Geschäfte abschließen
-- Voneinander strikt getrennte Organe sind vorgeschrieben und kontrollieren sich gegenseitig 
+- Voneinander strikt getrennte Organe sind vorgeschrieben und kontrollieren sich gegenseitig
+- Mindestkapital - Geschäftspartner wissen dass Kapital im Unternehmen ist
 
 #### Nachteile
 
 - Hohes Mindestkapital - €35.000 müssen vorgewiesen/eingebracht werden - €10.000 mit Gründerprivileg
 - Hoher Arbeitsaufwand - Gründung ist verhältnismäßig aufwendig und teuer
 - Risiko der persönlichen Haftung - Geschäftsführer haben trotz "begrenzter Haftung" eine Sorgfaltspflicht und können aufgrund dieser in Speizialfällen mit ihrem Privatvermögen haften
+- Haftung - Geschäftspartner abgeschreckt von Haftungsbarriere vor Privatvermögen
 - Strikte Trennung zwischen Gesellschafter- und Gesellschaftsvermögen
 - Steuern trotz Verlust - Die Mindestkörperschaftssteuer muss trotz Verlust eingebracht werden
 - Doppelte Buchhaltung - Aufwändigere Buchführung als bei Einzelunternehmen
+- Prestige - Geringere Vertrauenszuschreibung als bei der AG
 
 # Beispiele
 
 FLO / MO
 
-# Vergleichsformen
+# GmbH und Internationalität
 
-Ltd. England
-C und S Corporation in den USA
-FLO / MO
+Die GmbH besteht als wählbare Rechtsform nicht nur in Österreich, sondern auch im transnationalen Raum. Oft gibt es einige rechtliche Unterschiede zwsichen der österreichischen und ausländischen Form.
+
+| Land       | Begriff                                           | Unterschiede                         |
+|------------|---------------------------------------------------|--------------------------------------|
+| USA        | Closed Corporation<br/>Privately-Held Corporation |                                      |
+| UK         | Private Limited Company (Ltd.)                    | Mindestkapital beträgt nur ein Pfund |
+| Frankreich | Société à responsabilité limitée (S.A.R.L.)       | Kein vorgeschriebenes Mindestkapital |
+
 
 # Quellen
 
@@ -377,11 +389,7 @@ FLO / MO
 - Gründerservice, https://www.gruenderservice.at/site/gruenderservice/planung/GmbH.html
 - WKO, https://www.wko.at/service/wirtschaftsrecht-gewerberecht/Aufloesung_und_Liquidation_einer_GmbH_durch_Gesellschafter.html,
 - Gründerschiff, https://gruenderschiff.de/gmbh-gruenden-vor-und-nachteile/
-
-
-AG is besser wegen Namen und verbundenen Ansehen
-Haftung und Steuern
-Wenn man keine 70.000 für AG hat
-- Auch Steuern bei Verlusten zahlen!!!
-- Verträge eingehen
-+ GmbH lohnt sich erst mit der Zeit
+- https://www.ihk.de/hamburg/produktmarken/beratung-service/recht-und-steuern/wirtschaftsrecht/gesellschaftsrecht/uebersetzung-gesellschaftsrechtliche-bezeichnungen-1156900
+- https://www.businessinsider.de/gruenderszene/lexikon/begriffe/societe-a-responsabilite-limitee-s-a-r-l/#:~:text=Die%20Soci%C3%A9t%C3%A9%20%C3%A0%20responsabilit%C3%A9%20limit%C3%A9e,limit%C3%A9e%20wird%20zumeist%20mit%20S.
+- https://www.juhn.com/fachwissen/internationales-steuerrecht/unternehmensformen-usa/
+- 

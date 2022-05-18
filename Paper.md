@@ -104,7 +104,7 @@ notwendig.
 
 Der Vorteil hierbei ist, dass die Bank die Identität des Gründers prüft und bestimmte Dokumente an das Firmenbuchgericht weiterleitet, was zeitlich und aufandstechnisch ein großer Vorteil ist.
 
-# Gründungsprivilegien
+## Gründungsprivilegien - "GmbH light"
 
 Allgemein beträgt das Stammkapital der GmbH €35.000, kann aber mithilfe des Gründungsprivilegs auf €10.000 in den ersten
 10 Jahren herabgesetzt werden. Davon müssen €5.000 direkt bar eingezahlt werden - die andere Hälfte kann durch
@@ -277,10 +277,10 @@ Kapitalertragssteuer**, hand zu haben sind. Für ein neugegründetes Unternehmen
 gesehen oftmals ungünstig. Anders als Personengesellschaften unterliegt die GmbH als Kapitalgesellschaft der
 Kapitalertragssteuer und nicht der Einkommensteuer.
 
-#### Körperschaftssteuer (KöSt)
+## Körperschaftssteuer (KöSt)
 
-Als juristische Person unterliegt der Gewinn der GmbH der Körperschaftssteuer von **25%**. Wie für alle Kapitalgesellschaften gibt es für die GmbH zusätzlich eine Mindestkapitalsteuer (Mindest-KöSt). Diese gibt vor, als GmbH unabhängig vom Gewinn mindestens €1.750 KöSt pro Jahr anzubringen. Für eine AG
-beträgt die Mindestkapitalsteuer €3.500. Allerdings muss seit 2013 nicht von anfang an die volle Kindest-KöSt bezahlt
+Als juristische Person unterliegt der Gewinn der GmbH der Körperschaftssteuer von **25%**. Wie für alle Kapitalgesellschaften gibt es für die GmbH zusätzlich eine Mindestkapitalsteuer (Mindest-KöSt). Diese gibt vor, als GmbH unabhängig vom Gewinn mindestens €1.750 KöSt pro Jahr abzuführen. Für eine AG
+beträgt die Mindestkapitalsteuer €3.500. Allerdings muss seit 2013 nicht von Anfang an die volle Kindest-KöSt bezahlt
 werden.
 
 | Zeitraum          | Mindest-KöSt pro Jahr |
@@ -289,22 +289,22 @@ werden.
 | Nach 5 Jahren     | €1.000                |
 | Nach 10 Jahren    | €1.750                |
 
-#### Kapitalertragssteuer (KESt)
+## Kapitalertragssteuer (KESt)
 
 Bei der Kapitalertragssteuer handelt es sich um eine Form von Einkommensteuern. Wenn eine beteiligte natürliche Person
-einer person aus einer Gewinnausschüttung Geld zieht, dann sind wiederum Kapitalertragssteuer einzubringen. In diesem
+aus einer Gewinnausschüttung Geld zieht, dann ist wiederum die Kapitalertragssteuer abzuführen. In diesem
 Fall handelt es sich um Einkünfte aus Kapitalvermögen und somit beträgt der Steuersatz, seit 2016, **27,5 %**.
 
-Einfach zusammengefasst gibt die GmbH von jedem Gewinn 25 % Körperschaftssteuer ab. Wenn das Geld nicht in der Firmer
+Einfach zusammengefasst gibt die GmbH von jedem Gewinn 25 % Körperschaftssteuer ab. Wenn das Geld nicht in der Firma
 bleibt, sondern an die Gesellschafter ausgeschüttet wird, kommt zusätzlich 27,5 % Kapitalertragssteuer hinzu.
 Zusammengerechnet gibt es also eine Gesamtbesteuerung von **45,625 %**.
 
 Der Einkommenssteuertarif, bezahlt von Personengesellschaften, ist anders als die Körperschaftssteuer in sieben Stufen
 gestaffelt, die von 0 % zu €11.000 bis 55 zu €1.000.000 reichen. Bei €30.000 gibt es mit 2022 max 15 % des Gewinnes zu
-bezahlen. Da Körperschaftssteuer, bezahlt von Kapitalgesellschaften, seit 2005 unabhängig von Gewinn ist, gibt es eine
-Gewinngrenze, ab der die Gründung einer GmbH steuerlich günstig ist. Die Steuerbelastung von ESt und KöSt ist bei einem
+bezahlen. Da die Körperschaftssteuer, bezahlt von Kapitalgesellschaften, seit 2005 unabhängig vom Gewinn ist, gibt es eine
+Gewinngrenze, ab der die Gründung einer GmbH steuerlich günstig ist. Die Steuerbelastung von KESt und KöSt ist bei einem
 Gewinn von etwa €49.200 ausgeglichen. Rein steuerlich gesehen, macht eine GmbH also ab Jahreseinkommen von über €49.200
-sinn, es gibt allerdings auch andere wichtige Faktoren, wie z.B. die Verwaltungskosten, oder die Lohnnebenkosten.
+Sinn - es gibt allerdings auch andere wichtige Faktoren, wie z.B. die Verwaltungskosten, oder die Lohnnebenkosten, weswegen es stark auf den individuellen Fall ankommt.
 
 Bei längeren Verlustphasen kann es durch die höhere besteuerung der GmbH also durchaus rentabel zu sein, eine
 begünstigte Umwandlung der Rechtsform in ein Einzelunternehmen oder eine Personengesellschaft durchzuführen. Dabei gibt
@@ -314,13 +314,13 @@ Beispielsweise gibt es eine sofortige Versteuerung nicht ausgeschütteter Gewinn
 
 # Sozialversicherung
 
-Das GSVG verpflichtet eine Sozialversicherung für die geschäftsführende Gesellschaft einer GmbH. Außerdem gibt es eine Unfallversicherung nach dem ASVG, solange die Gesellschaft Mitglied einer Kammer der gewerblichen Wirtschaft ist. 
+Das GSVG (= Pflichtversicherung nach dem Gewerblichen Sozialversicherungsgesetz) verpflichtet eine Sozialversicherung für die geschäftsführende Gesellschafter einer GmbH. Außerdem gibt es eine Unfallversicherung nach dem ASVG (= Allgemeines Sozialversicherungsgesetz), solange die Gesellschaft Mitglied einer Kammer der gewerblichen Wirtschaft ist. Kommt es zur Gewinnausschüttung an Gesellschafter, fallen keine Sozialversicherungsabgaben an.
 
-Die Pflichtversicherung nach dem ASVG fällt allerdings aus, wenn die geschäftsführende Gesellschaft über 50 % Beteiligung hat, oder mehr als 25 % Beteiligung und zusätzlich beherrschenden Einfluss auf die Betriebsführung vorweist. Die geschäftsführende Gesellschaft unterliegt aber jedenfalls der Pflichtversicherung nach dem GSVG.
+Fremdgeschäftsführer, die keine Beteiligung an der GmbH haben, sind nach dem ASVG pflichtversichert und gelten als Dienstnehmer. Die ASVG Pflichtversicherung für geschäftsführende Gesellschafter fällt allerdings aus, wenn die geschäftsführenden Gesellschafter über 50 % Beteiligung haben, oder mehr als 25 % Beteiligung und zusätzlich beherrschenden Einfluss auf die Betriebsführung vorweisen. Die geschäftsführende Gesellschaft unterliegt aber jedenfalls der Pflichtversicherung nach dem GSVG.
 
 # Beendigung der Gesellschaft
 
-Ein Erreichen des Gesellschaftszweckes, ein Zeitablauf, ein Beschluss der Generalversammlung mit einfacher Mehrheit oder Konkurseröffnung können Gründe für die Auflösung einer GmbH sein. Man spricht von einer Liquidation. 
+Das Erreichen des Gesellschaftszweckes, ein Zeitablauf, ein Beschluss der Generalversammlung mit einfacher Mehrheit oder eine Konkurseröffnung sind Gründe für die Auflösung einer GmbH. Man spricht von einer Liquidation. 
 
 Das Liquidationsverfahren besteht aus folgenden Schritten:
 
@@ -340,7 +340,9 @@ Das Liquidationsverfahren besteht aus folgenden Schritten:
 - Steuerliche Vorteile - Bei hohen Gewinnen ist die Kapitalertragssteuer geringer als Einkommenssteuer
 - Eigene Rechtsfähigkeit - Die GmbH kann selbstständig Geschäfte abschließen
 - Voneinander strikt getrennte Organe sind vorgeschrieben und kontrollieren sich gegenseitig
-- Mindestkapital - Geschäftspartner wissen dass Kapital im Unternehmen ist
+- Mindestkapital - Geschäftspartner wissen, dass Kapital im Unternehmen ist
+
+Aufgrund dieser Vorteile wird die GmbH oft von Startups als Rechtsform gewählt. Jedoch ist zu beachten, dass es oftmals von Vorteil ist, mit einem Einzelunternehmen zu starten, da zu Beginn oftmals Verluste erziehlt werden. Macht man ausreichend Gewinn, ist die GmbH steuerlich gut aufgestellt.
 
 #### Nachteile
 
@@ -350,7 +352,7 @@ Das Liquidationsverfahren besteht aus folgenden Schritten:
 - Haftung - Geschäftspartner abgeschreckt von Haftungsbarriere vor Privatvermögen
 - Strikte Trennung zwischen Gesellschafter- und Gesellschaftsvermögen
 - Steuern trotz Verlust - Die Mindestkörperschaftssteuer muss trotz Verlust eingebracht werden
-- Doppelte Buchhaltung - Aufwändigere Buchführung als bei Einzelunternehmen
+- Doppelte Buchhaltung - Aufwändigere Buchführung als bei Einzelunternehmen, die bis Umsätzen bis €700.000 auch eine Einnahmen-Ausgaben-Rechnung führen können
 - Prestige - Geringere Vertrauenszuschreibung als bei der AG
 
 # Beispiele
@@ -394,4 +396,4 @@ Die GmbH besteht als wählbare Rechtsform nicht nur in Österreich, sondern auch
 - https://www.ihk.de/hamburg/produktmarken/beratung-service/recht-und-steuern/wirtschaftsrecht/gesellschaftsrecht/uebersetzung-gesellschaftsrechtliche-bezeichnungen-1156900
 - https://www.businessinsider.de/gruenderszene/lexikon/begriffe/societe-a-responsabilite-limitee-s-a-r-l/#:~:text=Die%20Soci%C3%A9t%C3%A9%20%C3%A0%20responsabilit%C3%A9%20limit%C3%A9e,limit%C3%A9e%20wird%20zumeist%20mit%20S.
 - https://www.juhn.com/fachwissen/internationales-steuerrecht/unternehmensformen-usa/
-- 
+- https://www.tpa-group.at/de/news/9-faqs-zur-optimalen-rechtsform/
